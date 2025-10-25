@@ -1,0 +1,92 @@
+pizza_name,predicted_quantity,sales_percentage
+The Big Meat Pizza,601,0.03859422599713519
+The Thai Chicken Pizza,443,0.028446345350737385
+The Five Cheese Pizza,442,0.028426170637722677
+The Four Cheese Pizza,413,0.026549922327354893
+The Classic Deluxe Pizza,371,0.023826336070369398
+The Spicy Italian Pizza,348,0.02237375673331047
+The Hawaiian Pizza,320,0.020558032561986805
+The Southwest Chicken Pizza,319,0.020497508422942682
+The Barbecue Chicken Pizza,311,0.020013315310589707
+The Barbecue Chicken Pizza,300,0.01928702564206024
+The California Chicken Pizza,296,0.019044929085883754
+The Italian Supreme Pizza,295,0.01898440494683963
+The Pepperoni Pizza,295,0.018944055520810216
+The California Chicken Pizza,291,0.018701958964633728
+The Hawaiian Pizza,289,0.018540561260516068
+The Mexicana Pizza,272,0.01747130147073658
+The Classic Deluxe Pizza,251,0.016119595698751186
+The Pepperoni Pizza,235,0.015131034761030525
+The Italian Supreme Pizza,235,0.015070510621986402
+The Sicilian Pizza,235,0.015131034761030525
+The Italian Capocollo Pizza,230,0.014767889926765792
+The Pepperoni Pizza,228,0.014667016361692256
+The Chicken Alfredo Pizza,221,0.014182823249339277
+The Pepper Salami Pizza,218,0.014041600258236326
+The Vegetables + Vegetables Pizza,199,0.012810942764339178
+The Sicilian Pizza,192,0.012367099078015616
+The Prosciutto and Arugula Pizza,188,0.012064478382795004
+The Green Garden Pizza,188,0.01210482780882442
+The Four Cheese Pizza,184,0.011822381826618517
+"The Pepperoni, Mushroom, and Peppers Pizza",181,0.011660984122500858
+The Sicilian Pizza,180,0.011580285270442027
+The Napolitana Pizza,178,0.011418887566324368
+The Spinach and Feta Pizza,176,0.01133818871426554
+The Calabrese Pizza,176,0.01133818871426554
+The Greek Pizza,173,0.011136441584118466
+The Southwest Chicken Pizza,168,0.010773296749853733
+The California Chicken Pizza,157,0.010067181794338976
+The Brie Carre Pizza,154,0.00988560937720661
+The Italian Vegetables Pizza,153,0.00980491052514778
+The Hawaiian Pizza,152,0.009744386386103658
+The Barbecue Chicken Pizza,152,0.009764561099118364
+The Thai Chicken Pizza,151,0.009704036960074243
+The Thai Chicken Pizza,151,0.009683862247059536
+The Classic Deluxe Pizza,148,0.009542639255956584
+The Napolitana Pizza,148,0.00950228982992717
+The Vegetables + Vegetables Pizza,146,0.009361066838824218
+The Mexicana Pizza,143,0.009179494421691851
+The Spinach and Feta Pizza,140,0.008977747291544777
+The Spinach and Feta Pizza,138,0.008856699013456534
+The Prosciutto and Arugula Pizza,137,0.008776000161397703
+The Napolitana Pizza,134,0.008614602457280044
+The Pepper Salami Pizza,134,0.008634777170294752
+The Vegetables + Vegetables Pizza,134,0.008614602457280044
+The Prosciutto and Arugula Pizza,133,0.008554078318235923
+The Spicy Italian Pizza,128,0.008211108196985898
+The Spicy Italian Pizza,128,0.008211108196985898
+The Italian Capocollo Pizza,127,0.008150584057941775
+The Soppressata Pizza,127,0.008170758770956483
+The Spinach Pesto Pizza,127,0.008150584057941775
+The Spinach Supreme Pizza,126,0.008069885205882947
+The Chicken Pesto Pizza,125,0.008049710492868239
+"The Pepperoni, Mushroom, and Peppers Pizza",125,0.008009361066838824
+"The Pepperoni, Mushroom, and Peppers Pizza",121,0.007747089797647628
+The Mediterranean Pizza,116,0.007464643815441725
+The Southwest Chicken Pizza,115,0.0074041196763976035
+The Pepper Salami Pizza,101,0.006496257590735772
+The Italian Vegetables Pizza,96,0.006153287469485747
+The Italian Capocollo Pizza,95,0.006092763330441625
+The Greek Pizza,95,0.006133112756471039
+The Green Garden Pizza,95,0.006092763330441625
+The Chicken Pesto Pizza,94,0.006012064478382795
+The Mediterranean Pizza,91,0.005830492061250429
+The Soppressata Pizza,90,0.005810317348235721
+The Spinach Pesto Pizza,89,0.005729618496176892
+The Spinach Supreme Pizza,89,0.005709443783162184
+The Spinach Pesto Pizza,89,0.0056892690701474775
+The Greek Pizza,88,0.00566909435713277
+The Calabrese Pizza,87,0.005568220792059233
+The Chicken Pesto Pizza,87,0.005568220792059233
+The Mediterranean Pizza,86,0.005548046079044525
+The Soppressata Pizza,84,0.005406823087941574
+The Spinach Supreme Pizza,84,0.005386648374926866
+The Greek Pizza,80,0.005144551818750378
+The Italian Supreme Pizza,62,0.003954243750882644
+The Italian Vegetables Pizza,60,0.0038331954727943993
+The Chicken Alfredo Pizza,59,0.0037928460467649846
+The Mexicana Pizza,51,0.003268303508382593
+The Calabrese Pizza,31,0.001997296588456029
+The Green Garden Pizza,30,0.0019165977363971996
+The Chicken Alfredo Pizza,30,0.001936772449411907
+The Greek Pizza,9,0.0005648919644118063
